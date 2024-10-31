@@ -1,0 +1,19 @@
+{
+  "users": {
+    "5256035344": {
+      "savedImages": [
+        {
+          "url": "https://cdn2.thecatapi.com/images/dra.jpg",
+          "breed": "Persian",
+          "savedAt": "2024-03-20T10:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "totalViews": 1,
+        "gamesPlayed": 0,
+        "correctGuesses": 0,
+        "lastVisit": "2024-03-20T10:00:00.000Z"
+      }
+    }
+  }
+}
